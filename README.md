@@ -63,7 +63,8 @@ transit times.
 
 **5. Conceptual Model:**
 
-![logical design](https://github.com/user-attachments/assets/a0d6808c-57d3-4b9b-a08b-8adc2c4e3257)
+![conceptual design](https://github.com/user-attachments/assets/3cca0a2b-6733-4483-be5a-e0ecad83e62a)
+
 
 #  
 
