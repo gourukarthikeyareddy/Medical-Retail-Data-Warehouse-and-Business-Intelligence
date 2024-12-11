@@ -93,3 +93,9 @@ Implemented incremental loading by comparing the source data with the data alrea
 
 ![image](https://github.com/user-attachments/assets/aeb8b363-08fa-4860-988d-b5e82a89d90d)
 
+#  
+
+
+**8. Tableau Dashboard:**
+
+![image](https://github.com/user-attachments/assets/49589986-14fc-4ec8-a9df-2c3920a875b1)
