@@ -28,7 +28,7 @@ Key pain points include:
 
 **3. Proposed Solution:**
 
-The proposed system will address these challenges by creating a centralized PostgreSQL database to manage the
+The proposed system will address these challenges by creating a snowflake datawarehouse to manage the
 supply and distribution of medical equipment. This will include:
 
 • Inventory Management: Real-time tracking of equipment in various warehouses, with automated alerts for
